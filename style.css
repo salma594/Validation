@@ -1,0 +1,9 @@
+  .is_invalid{
+  all:unset ;
+  outline: 2px red solid;
+  }
+
+ .is_valid{
+  all:unset ;
+  outline: 2px green solid;
+ }
